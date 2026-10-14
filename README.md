@@ -1,13 +1,16 @@
 <!-- ![MasterHead](https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562) -->
 <h1 align="center">Hi 👋, I'm Agrima Singh Rajput</h1>
-<h3 align="center">A passionate developer!</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrima5115&label=Profile%20views&color=0e75b6&style=flat" alt="agrima5115" /> </p> -->
 
-- 🌱 I’m currently learning **Enterprise Application Integration**
+- 💻 A Developer working with APIs and enterprise integrations.
+  
+- 🌱 Currently learning more about API development, cloud computing, and backend systems.
 
-- 💬 Ask me about **Development, Cloud**
+- 🛠️ I enjoy building projects, solving problems, and exploring new technologies.
 
-- 📫 How to reach me **agrima.rajput@outlook.com**
+- 💬 Ask me about *Development and Cloud*
+
+- 📫 Reach me at: agrima.rajput@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
